@@ -1,0 +1,5 @@
+# Example YAML file
+# This is a comment
+
+imputer_type: median
+scaler: std_scale
